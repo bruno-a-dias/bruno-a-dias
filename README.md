@@ -16,3 +16,5 @@
 [![](https://visitcount.itsvg.in/api?id=bruno-a-dias&icon=0&color=7)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=bruno-a-dias)](https://github.com/stats-organization/github-stats-extended)
